@@ -1,0 +1,120 @@
+Country,Region,Population,Area,Density,Coastline
+Afghanistan ,ASIA (EX. NEAR EAST)         ,5000,647500,51,2
+Albania ,EASTERN EUROPE                     ,5001,28748,52,3
+Algeria ,NORTHERN AFRICA                    ,5002,2381740,53,4
+American Samoa ,OCEANIA                            ,5003,199,54,5
+Andorra ,WESTERN EUROPE                     ,5004,468,55,6
+Angola ,SUB-SAHARAN AFRICA                 ,5005,1246700,56,7
+Anguilla ,LATIN AMER. & CARIB    ,5006,102,57,8
+Antigua & Barbuda ,LATIN AMER. & CARIB    ,5007,443,58,9
+Argentina ,LATIN AMER. & CARIB    ,5008,2766890,59,10
+Armenia ,C.W. OF IND. STATES ,5009,29800,60,11
+Aruba ,LATIN AMER. & CARIB    ,5010,193,61,12
+Australia ,OCEANIA                            ,5011,7686850,62,13
+Austria ,WESTERN EUROPE                     ,5012,83870,63,14
+Azerbaijan ,C.W. OF IND. STATES ,5013,86600,64,15
+"Bahamas, The ",LATIN AMER. & CARIB    ,5014,13940,65,16
+Bahrain ,NEAR EAST                          ,5015,665,66,17
+Bangladesh ,ASIA (EX. NEAR EAST)         ,5016,144000,67,18
+Barbados ,LATIN AMER. & CARIB    ,5017,431,68,19
+Belarus ,C.W. OF IND. STATES ,5018,207600,69,20
+Belgium ,WESTERN EUROPE                     ,5019,30528,70,21
+Belize ,LATIN AMER. & CARIB    ,5020,22966,71,22
+Benin ,SUB-SAHARAN AFRICA                 ,5021,112620,72,23
+Bermuda ,NORTHERN AMERICA                   ,5022,53,73,24
+Bhutan ,ASIA (EX. NEAR EAST)         ,5023,47000,74,25
+Bolivia ,LATIN AMER. & CARIB    ,5024,1098580,75,26
+Bosnia & Herzegovina ,EASTERN EUROPE                     ,5025,51129,76,27
+Botswana ,SUB-SAHARAN AFRICA                 ,5026,600370,77,28
+Brazil ,LATIN AMER. & CARIB    ,5027,8511965,78,29
+British Virgin Is. ,LATIN AMER. & CARIB    ,5028,153,79,30
+Brunei ,ASIA (EX. NEAR EAST)         ,5029,5770,80,31
+Bulgaria ,EASTERN EUROPE                     ,5030,110910,81,32
+Burkina Faso ,SUB-SAHARAN AFRICA                 ,5031,274200,82,33
+Burma ,ASIA (EX. NEAR EAST)         ,5032,678500,83,34
+Burundi ,SUB-SAHARAN AFRICA                 ,5033,27830,84,35
+Cambodia ,ASIA (EX. NEAR EAST)         ,5034,181040,85,36
+Cameroon ,SUB-SAHARAN AFRICA                 ,5035,475440,86,37
+Canada ,NORTHERN AMERICA                   ,5036,9984670,87,38
+Cape Verde ,SUB-SAHARAN AFRICA                 ,5037,4033,88,39
+Cayman Islands ,LATIN AMER. & CARIB    ,5038,262,89,40
+Central African Rep. ,SUB-SAHARAN AFRICA                 ,5039,622984,90,41
+Chad ,SUB-SAHARAN AFRICA                 ,5040,1284000,91,42
+Chile ,LATIN AMER. & CARIB    ,5041,756950,92,43
+China ,ASIA (EX. NEAR EAST)         ,5042,9596960,93,44
+Colombia ,LATIN AMER. & CARIB    ,5043,1138910,94,45
+Comoros ,SUB-SAHARAN AFRICA                 ,5044,2170,95,46
+"Congo, Dem. Rep. ",SUB-SAHARAN AFRICA                 ,5045,2345410,96,47
+"Congo, Repub. of the ",SUB-SAHARAN AFRICA                 ,5046,342000,97,48
+Cook Islands ,OCEANIA                            ,5047,240,98,49
+Costa Rica ,LATIN AMER. & CARIB    ,5048,51100,99,50
+Cote d'Ivoire ,SUB-SAHARAN AFRICA                 ,5049,322460,100,51
+Croatia ,EASTERN EUROPE                     ,5050,56542,101,52
+Cuba ,LATIN AMER. & CARIB    ,5051,110860,102,53
+Cyprus ,NEAR EAST                          ,5052,9250,103,54
+Czech Republic ,EASTERN EUROPE                     ,5053,78866,104,55
+Denmark ,WESTERN EUROPE                     ,5054,43094,105,56
+Djibouti ,SUB-SAHARAN AFRICA                 ,5055,23000,106,57
+Dominica ,LATIN AMER. & CARIB    ,5056,754,107,58
+Dominican Republic ,LATIN AMER. & CARIB    ,5057,48730,108,59
+East Timor ,ASIA (EX. NEAR EAST)         ,5058,15007,109,60
+Ecuador ,LATIN AMER. & CARIB    ,5059,283560,110,61
+Egypt ,NORTHERN AFRICA                    ,5060,1001450,111,62
+El Salvador ,LATIN AMER. & CARIB    ,5061,21040,112,63
+Equatorial Guinea ,SUB-SAHARAN AFRICA                 ,5062,28051,113,64
+Eritrea ,SUB-SAHARAN AFRICA                 ,5063,121320,114,65
+Estonia ,BALTICS                            ,5064,45226,115,66
+Ethiopia ,SUB-SAHARAN AFRICA                 ,5065,1127127,116,67
+Faroe Islands ,WESTERN EUROPE                     ,5066,1399,117,68
+Fiji ,OCEANIA                            ,5067,18270,118,69
+Finland ,WESTERN EUROPE                     ,5068,338145,119,70
+France ,WESTERN EUROPE                     ,5069,547030,120,71
+French Guiana ,LATIN AMER. & CARIB    ,5070,91000,121,72
+French Polynesia ,OCEANIA                            ,5071,4167,122,73
+Gabon ,SUB-SAHARAN AFRICA                 ,5072,267667,123,74
+"Gambia, The ",SUB-SAHARAN AFRICA                 ,5073,11300,124,75
+Gaza Strip ,NEAR EAST                          ,5074,360,125,76
+Georgia ,C.W. OF IND. STATES ,5075,69700,126,77
+Germany ,WESTERN EUROPE                     ,5076,357021,127,78
+Ghana ,SUB-SAHARAN AFRICA                 ,5077,239460,128,79
+Gibraltar ,WESTERN EUROPE                     ,5078,7,129,80
+Greece ,WESTERN EUROPE                     ,5079,131940,130,81
+Greenland ,NORTHERN AMERICA                   ,5080,2166086,131,82
+Grenada ,LATIN AMER. & CARIB    ,5081,344,132,83
+Guadeloupe ,LATIN AMER. & CARIB    ,5082,1780,133,84
+Guam ,OCEANIA                            ,5083,541,134,85
+Guatemala ,LATIN AMER. & CARIB    ,5084,108890,135,86
+Guernsey ,WESTERN EUROPE                     ,5085,78,136,87
+Guinea ,SUB-SAHARAN AFRICA                 ,5086,245857,137,88
+Guinea-Bissau ,SUB-SAHARAN AFRICA                 ,5087,36120,138,89
+Guyana ,LATIN AMER. & CARIB    ,5088,214970,139,90
+Haiti ,LATIN AMER. & CARIB    ,5089,27750,140,91
+Honduras ,LATIN AMER. & CARIB    ,5090,112090,141,92
+Hong Kong ,ASIA (EX. NEAR EAST)         ,5091,1092,142,93
+Hungary ,EASTERN EUROPE                     ,5092,93030,143,94
+Iceland ,WESTERN EUROPE                     ,5093,103000,144,95
+India ,ASIA (EX. NEAR EAST)         ,5094,3287590,145,96
+Indonesia ,ASIA (EX. NEAR EAST)         ,5095,1919440,146,97
+Iran ,ASIA (EX. NEAR EAST)         ,5096,1648000,147,98
+Iraq ,NEAR EAST                          ,5097,437072,148,99
+Ireland ,WESTERN EUROPE                     ,5098,70280,149,100
+Isle of Man ,WESTERN EUROPE                     ,5099,572,150,101
+Israel ,NEAR EAST                          ,5100,20770,151,102
+Italy ,WESTERN EUROPE                     ,5101,301230,152,103
+Jamaica ,LATIN AMER. & CARIB    ,5102,10991,153,104
+Japan ,ASIA (EX. NEAR EAST)         ,5103,377835,154,105
+Jersey ,WESTERN EUROPE                     ,5104,116,155,106
+Jordan ,NEAR EAST                          ,5105,92300,156,107
+Kazakhstan ,C.W. OF IND. STATES ,5106,2717300,157,108
+Kenya ,SUB-SAHARAN AFRICA                 ,5107,582650,158,109
+Kiribati ,OCEANIA                            ,5108,811,159,110
+"Korea, North ",ASIA (EX. NEAR EAST)         ,5109,120540,160,111
+"Korea, South ",ASIA (EX. NEAR EAST)         ,5110,98480,161,112
+Kuwait ,NEAR EAST                          ,5111,17820,162,113
+Kyrgyzstan ,C.W. OF IND. STATES ,5112,198500,163,114
+Laos ,ASIA (EX. NEAR EAST)         ,5113,236800,164,115
+Latvia ,BALTICS                            ,5114,64589,165,116
+Lebanon ,NEAR EAST                          ,5115,10400,166,117
+Lesotho ,SUB-SAHARAN AFRICA                 ,5116,30355,167,118
+Liberia ,SUB-SAHARAN AFRICA                 ,5117,111370,168,119
+Libya ,NORTHERN AFRICA                    ,5118,1759540,169,120
